@@ -1,10 +1,12 @@
 #include <fstream>
 #include <thread>
 #include <vector>
+#include <iostream>
 #include "picosha2.h"
 #include "nlohmann/json.hpp"
 
 using json = nlohmann::json;
+
 
 class DocumentEngine {
 public:

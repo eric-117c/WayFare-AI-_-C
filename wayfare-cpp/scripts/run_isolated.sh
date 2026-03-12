@@ -24,7 +24,7 @@ ulimit -t 300
 ulimit -f 51200
 
 # 限制最大进程数/子线程数 (防止 fork 炸弹)
-ulimit -u 50
+ulimit -u 1024
 
 # --- 3. 启动进程 ---
 # 使用 stdbuf -oL 强制开启行缓冲 (Line Buffering)
