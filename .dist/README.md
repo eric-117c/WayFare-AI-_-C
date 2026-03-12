@@ -1,7 +1,11 @@
 # WayFare-AI-_-C
+
 这是WayFare AI 成员C的代码仓库
 
 - 文件结构
+
+```cpp
+
 wayfare-cpp/
 ├── src/
 │   ├── main.cpp                # 进程入口，管理生命周期
@@ -13,3 +17,4 @@ wayfare-cpp/
 ├── CMakeLists.txt              # 跨平台构建脚本
 └── scripts/
     └── run_isolated.sh         # 启动受限进程的脚本
+```
