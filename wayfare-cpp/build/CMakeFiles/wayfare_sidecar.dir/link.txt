@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/wayfare_sidecar.dir/link.d CMakeFiles/wayfare_sidecar.dir/src/main.cpp.o -o wayfare_sidecar

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/wjy/Documents/git/wayfare-cpp/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
